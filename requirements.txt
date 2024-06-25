@@ -1,0 +1,2 @@
+bibtexparser==1.4.1
+pypinyin==0.50.0
